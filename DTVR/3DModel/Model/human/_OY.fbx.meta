@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: 44593fa1783deab4fa4a63a696be3f34
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'LeftLowerLeg' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: _OY(Clone)
+      parentName: 
+      position: {x: 0.000000009536743, y: 0.2781367, z: 0.017309597}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tou
+      parentName: _OY(Clone)
+      position: {x: -0.000000009536743, y: -0.27098697, z: -0.017309597}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface5_1
+      parentName: Tou
+      position: {x: 0.0011982238, y: 0.5125096, z: 0.012570741}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface5_2
+      parentName: Tou
+      position: {x: -4.142377e-10, y: 0.4921573, z: 0.013781469}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shou
+      parentName: _OY(Clone)
+      position: {x: -0.000000009536743, y: -0.27098697, z: -0.017309597}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shou 1
+      parentName: Shou
+      position: {x: -0.16722429, y: 0.3234192, z: 0.013623153}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shou1
+      parentName: Shou
+      position: {x: 0.16722429, y: 0.3234192, z: 0.013623153}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eye
+      parentName: _OY(Clone)
+      position: {x: -0.000000009536743, y: 0.2291672, z: 0.019185683}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface25
+      parentName: Eye
+      position: {x: 0.011384603, y: 0.0005816613, z: 0.00033566265}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface24
+      parentName: Eye
+      position: {x: 0.01135844, y: -0.000054868015, z: 0.00028940968}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface26
+      parentName: Eye
+      position: {x: 0.012629304, y: -0.00090360624, z: 0.000041095842}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface22
+      parentName: Eye
+      position: {x: -0, y: -0.5051772, z: -0.05907417}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cloth
+      parentName: _OY(Clone)
+      position: {x: -0.000000009536743, y: -0.27098697, z: -0.017309597}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: XieZi
+      parentName: Cloth
+      position: {x: -0.020812893, y: 0.008656623, z: 0.023637187}
+      rotation: {x: -0.0016867876, y: -0, z: 0.27997515, w: 0.96000576}
+      scale: {x: 1, y: 1, z: 1}
+    - name: XieZi 1
+      parentName: XieZi
+      position: {x: 0.020850651, y: 0.012262089, z: 0.0001256207}
+      rotation: {x: 0.0015961595, y: 0.0017884499, z: -0.7305772, w: 0.6828259}
+      scale: {x: 1, y: 1, z: 1}
+    - name: zz:polySurface18
+      parentName: XieZi 1
+      position: {x: -0.020717634, y: -0.0129655665, z: -4.440892e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: zz:polySurface19
+      parentName: XieZi 1
+      position: {x: -0.020855827, y: 0.0016582784, z: -0.00004150596}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ktnh:polySurface7
+      parentName: zz:polySurface19
+      position: {x: 0.00014529511, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: XieZi1
+      parentName: XieZi
+      position: {x: 0.020850651, y: 0.012262089, z: 0.0001256207}
+      rotation: {x: -0.00031366502, y: -0.00020278338, z: -0.16461708, w: 0.9863575}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ktnh:polySurface18
+      parentName: XieZi1
+      position: {x: 0.020717634, y: -0.0129655665, z: 4.440892e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ktnh:polySurface19
+      parentName: XieZi1
+      position: {x: 0.020855827, y: 0.0016582784, z: -0.00004150596}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ktnh:polySurface7 1
+      parentName: ktnh:polySurface19
+      position: {x: -0.00014529511, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cloth2
+      parentName: Cloth
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: zz:polySurface9
+      parentName: Cloth2
+      position: {x: -0.000000014599219, y: 0.3747722, z: 0.011992124}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: zz:zz:polySurface10
+      parentName: Cloth2
+      position: {x: 0.00039095877, y: 0.39033416, z: 0.004739193}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cloth 1
+      parentName: Cloth
+      position: {x: 0.0000011525242, y: 0.42330706, z: 0.011326306}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCylinder1
+      parentName: Cloth 1
+      position: {x: -0.00018342621, y: -0.012812583, z: 0.027556147}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCylinder2
+      parentName: Cloth 1
+      position: {x: -0.00018342621, y: 0.0001312373, z: 0.02419763}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCylinder3
+      parentName: Cloth 1
+      position: {x: -0.00018342621, y: 0.012472489, z: 0.01843618}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: boy_f:polySurface1
+      parentName: Cloth 1
+      position: {x: 0.0000000014216698, y: -0.005714195, z: 2.7332359e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: zz:polySurface2
+      parentName: Cloth 1
+      position: {x: -0.00002513624, y: 0.027316315, z: -0.0017894568}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ktnh:polySurface6
+      parentName: Cloth
+      position: {x: -0.00000003235329, y: 0.1777583, z: 0.015413903}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: kouqiang
+      parentName: _OY(Clone)
+      position: {x: 0.0015006529, y: 0.21217881, z: 0.008737166}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface21
+      parentName: kouqiang
+      position: {x: -0, y: 0, z: 0.005263097}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface20
+      parentName: kouqiang
+      position: {x: -0.00000011161679, y: -0.0024725555, z: -0.0011785517}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MeiMao
+      parentName: _OY(Clone)
+      position: {x: -0.000000009536743, y: -0.2781367, z: -0.017309597}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface6
+      parentName: MeiMao
+      position: {x: 0.000026462674, y: 0.5159548, z: 0.03902405}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eye1
+      parentName: _OY(Clone)
+      position: {x: -0.000000009536743, y: 0.2291672, z: 0.019185683}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: -1, y: 1, z: 1}
+    - name: polySurface25 1
+      parentName: Eye1
+      position: {x: 0.011384603, y: 0.0005816613, z: 0.00033566265}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface24 1
+      parentName: Eye1
+      position: {x: 0.01135844, y: -0.000054868015, z: 0.00028940968}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface26 1
+      parentName: Eye1
+      position: {x: 0.012629304, y: -0.00090360624, z: 0.000041095842}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface22 1
+      parentName: Eye1
+      position: {x: -0, y: -0.5051772, z: -0.05907417}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
